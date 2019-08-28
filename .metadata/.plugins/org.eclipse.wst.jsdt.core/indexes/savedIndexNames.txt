@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/lefa/emp_workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4256233641.index
+3868930481.index
+1368495944.index
+2159672948.index
+2829372973.index
+459957111.index
+3811616455.index
+3868930481.index
